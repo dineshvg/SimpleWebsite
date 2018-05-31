@@ -6,6 +6,6 @@
 ## Responsive wesbite using HTML, CSS and jQuery
 [link to Page!](https://dash.generalassemb.ly/dineshvg/build-your-own-blog-theme)
 
-## Web-page with CSS and jQuery transitions
+## Business website with CSS and jQuery transitions
 [link to Page!](http://dash.ga.co/dineshvg/build-your-own-business-website)
 
