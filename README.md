@@ -10,4 +10,4 @@
 [link to Page!](http://dash.ga.co/dineshvg/build-your-own-business-website)
 
 ## Animation and shapes using CSS and jQuery 
-![alt_text](https://i.imgur.com/47pltSb.png)
+![alt_text](https://i.imgur.com/l2QlN8C.png)
